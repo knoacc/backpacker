@@ -2,6 +2,7 @@
 layout: post
 title: Kematian Pendaki Gunung Everest di Musim Semi
 excerpt: Kematian para pendaki Gunung Everest menghiasi musim semi 2017
+image: https://i.guim.co.uk/img/media/a3b64635eb2fb5df81fdc9d73a7f26d1668ff7af/0_184_2766_1660/master/2766.jpg
 ---
 Dalam film Everest maupun buku Into Thin Air, digambarkan bahwa antrean yang panjang saat harus menyeberang melewati tangga atau melewati tebing es membuat para pendaki kedinginan karena menunggu lama. Hal ini terjadi karena banyak sekali tim yang ingin mencapai puncak pada 10 Mei.
 
@@ -27,3 +28,4 @@ Empat pendaki lainnya ditemukan tewas di dalam tenda di Camp 4, camp terakhir se
 “Masalah terbesar di Everest saat ini adalah meningkatnya jumlah pendaki tak berpengalaman dan pemandu yang tak memenuhi syarat,” kata Alan Arnette seperti dikutip  Fox News. Alan adalah pendaki senior yang pernah ke puncak Everest pada 2011. 
 
 Sumber : tirto.id via mountnesia (IG)
+Gambar: Tashi Sherpa/AP via theguardian.com
