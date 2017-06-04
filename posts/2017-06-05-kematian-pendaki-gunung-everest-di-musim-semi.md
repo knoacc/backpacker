@@ -2,7 +2,7 @@
 layout: post
 title: Kematian Pendaki Gunung Everest di Musim Semi
 excerpt: Kematian para pendaki Gunung Everest menghiasi musim semi 2017
-image: https://i.guim.co.uk/img/media/a3b64635eb2fb5df81fdc9d73a7f26d1668ff7af/0_184_2766_1660/master/2766.jpg
+image: https://i.guim.co.uk/img/media/a3b64635eb2fb5df81fdc9d73a7f26d1668ff7af/0_184_2766_1660/master/2766.jpg?w=465&q=20&auto=format&usm=12&fit=max&dpr=2&s=6099dcba65a79e70e504d8beddaba097
 ---
 Dalam film Everest maupun buku Into Thin Air, digambarkan bahwa antrean yang panjang saat harus menyeberang melewati tangga atau melewati tebing es membuat para pendaki kedinginan karena menunggu lama. Hal ini terjadi karena banyak sekali tim yang ingin mencapai puncak pada 10 Mei.
 
