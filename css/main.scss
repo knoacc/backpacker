@@ -1800,7 +1800,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("https://sudardjattanusukma.files.wordpress.com/2014/06/el-semeru_bromo_temple.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("{% if page.layout == 'post' %}{{% page.image %}}{% else %}https://sudardjattanusukma.files.wordpress.com/2014/06/el-semeru_bromo_temple.jpg{% endif %}")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -1821,7 +1821,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("https://sudardjattanusukma.files.wordpress.com/2014/06/el-semeru_bromo_temple.jpg")'));
+				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("{% if page.layout == 'post' %}{{% page.image %}}{% else %}https://sudardjattanusukma.files.wordpress.com/2014/06/el-semeru_bromo_temple.jpg{% endif %}")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;
