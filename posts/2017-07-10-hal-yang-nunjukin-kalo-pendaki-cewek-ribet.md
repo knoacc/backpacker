@@ -2,8 +2,9 @@
 layout: post
 title: 10 Hal yang Nunjukin Kalau Pendaki Cewek itu Ribet
 excerpt: Hal hal yang sering bikin kalang kabut cewek saat melakukan pendakian. Mitos atau Fakta?
-image: https://4.bp.blogspot.com/-xoUuJ4AuElk/V7JE9k5D0pI/AAAAAAAAGhI/9F94rmIBk_4TQqWSHgpXGat1UO7KbI8uQCLcB/s1600/Pendaki%2BWanita%2BCantik%2BBerhijab%2BAkun%2BInstagram%2B%2540siska_kusmayanti%2BBeautiful%2Bmountaineer%2Bwoman.jpg
+image: https://4.bp.blogspot.com/-xoUuJ4AuElk/V7JE9k5D0pI/AAAAAAAAGhI/9F94rmIBk_4TQqWSHgpXGat1UO7KbI8uQCLcB/s1600/siska.jpg
 ---
+
 Kadang hal yang biasa dilakukan para cowok pas daki gunung itu ternyata dianggap sesuatu yang nggak biasa bagi cewek. Apa aja sih?
 
 **1. Cowok sudah biasa pipis di mana saja tanpa tisu tapi tidak bagi cewek yg harus mencari semak-semak tinggi dan diawasi.**
