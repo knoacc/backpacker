@@ -16,6 +16,7 @@ Hingga tahun 2017, member yang masih aktif berpartisipasi dalam kegiatan komunit
 
 - [Blek Rovin](https://facebook.com/100007365459597){:.fa.fa-facebook-official}
 - [edyrovin](https://www.instagram/edyrovin){:.fa.fa-instagram}
+
 **Nur Tsalatsatul Asyrifah**
 
 - [-](/){:.fa.fa-facebook-official}
