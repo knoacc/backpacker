@@ -34,7 +34,7 @@ Hingga tahun 2017, member yang masih aktif berpartisipasi dalam kegiatan komunit
 
 **Ori**
 
-- [-](/){:.fa.fa-facebook-official
+- [-](/){:.fa.fa-facebook-official}
 - [scytheblackraven](https://www.instagram.com/scytheblackraven/){:.fa.fa-instagram}
 ___
 
