@@ -49,7 +49,7 @@ Terhitung sebagai anggota pasif antara lain:
 
 **Wahyuning Tiyas**
 
-- [ Wahyuning Tiyas](https://facebook.com/tyaz.c.qmue){:.fa.fa-facebook-official
+- [ Wahyuning Tiyas](https://facebook.com/tyaz.c.qmue){:.fa.fa-facebook-official}
 - [ -](/){:.fa.fa-instagram}
 
 **Aziz Azhar**
