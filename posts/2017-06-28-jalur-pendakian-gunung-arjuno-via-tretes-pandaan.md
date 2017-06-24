@@ -55,17 +55,17 @@ Perkiraan waktu pendakian bisa mencapai 8 jam perjalanan atau paling cepat 4 jam
 
 Di lokasi Pos 3 banyak sekali gubuk kecil yang menjadi tempat penambanh belerang. Sehingga pos ini juga biasa disebut sebagai Pondokan. Di sini kalian juga bisa mendirikan tenda dan bermalam. Di sini juga tersedia sumber mata air. Meski sedikit kotor dan tak sebersih di Pos 2, air masih bisa digunakan. Sedangkan jika ingin memasak sepertinya lebih baik menggunakan air dari Pos 2 Atau meneruskan perjalanan jika ingin melakukan rush hiking.
 
-#### Lembah Kidang (Savana)
+#### Menuju Puncak Gunung Arjuno 
 
 Dari Pos 3 menuju puncak, kalian akan melewati Savanah yang cukup luas setalah berjalan sekitar 15-20 menit. Sebelum itu, ikuti tali yang dipasang para pendaki jika anda belum mengenal medan. Jalur menuju puncak Gunung Arjuno berbelok ke arah kiri. Karena jika  mengambil jalan lurus, kalian akan sampai di puncak Gunung Welirang. Jadi jangan sampai salah jalur.
 
-Di savanah yanh biasa di sebut sebagai Lembah Kidang ini, juga bisa mendirikan tenda. Lokasi ini lebih menjadi pilihan jika dibandingkan dengan di Pos 3. Pemandangan yang indah di Lembah Kidang menjadi salah satu alasan para pendaki melewati jalur Tretes. Belum lagi jika kalian beruntung kalian bisa menemui kawanan Rusa (Kidang, Bhs Jawa). Mau ambil foto selfie untuk pamer ke teman atau instagram juga boleh.
+**Lembah Kidang (Savana)**
 
-Di sekitar Lembah Kidang juga terdapat sumber air, tetapi kadang surut bahkan kering saat musim kemarau.
+Di savanah yanh biasa di sebut sebagai Lembah Kidang ini, juga bisa mendirikan tenda. Lokasi ini lebih menjadi pilihan jika dibandingkan dengan di Pos 3. Pemandangan yang indah di Lembah Kidang menjadi salah satu alasan para pendaki melewati jalur Tretes. Belum lagi jika kalian beruntung kalian bisa menemui kawanan Rusa (Kidang, Bhs Jawa). Mau ambil foto selfie untuk pamer ke teman atau instagram juga boleh. Di sekitar Lembah Kidang juga terdapat sumber air, tetapi kadang surut bahkan kering saat musim kemarau.
 
-#### Menuju Puncak Gunung Arjuno 
+Untuk menuju puncak Ogal-agil bisa mencapai 8/9 jam pendakian wajar. Lagi, jalur di sini akan membuatmu "Lali Jiwo" karena jalan menanjak tanpa jeda. Gak bakalan ada bonusan lagi, serius.anah menuju puncak Ogal-agil bisa mencapai 8/9 jam pendakian wajar. Lagi, jalur di sini akan membuatmu "Lali Jiwo" karena jalan menanjak tanpa jeda. Gak bakalan ada bonusan lagi, serius.
 
-Dari savanah menuju puncak Ogal-agil bisa mencapai 8/9 jam pendakian wajar. Lagi, jalur di sini akan membuatmu "Lali Jiwo" karena jalan menanjak tanpa jeda. Gak bakalan ada bonusan lagi, serius.
+**Alas Lali Jiwo**
 
 Dalam perjalanan menuju puncak, kalian akan melewati hutan yang disebut "Alas Lali Jiwo", nah loh. Di jalur ini juga akan me jumpai pertigaan, jangan ambil arah kanan. Arah kanan ini juga menuju Gunung Welirang tetapi termasuk jalur bahaya menurut informasi yang didapat di Basecamp.
 
