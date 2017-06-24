@@ -8,7 +8,7 @@ Pendakian Gunung Arjuno via Tretes memang sudah terkenal sebagai jalur yang bera
 
 <div class="box alt">
 <div class="row uniform 50%">
-<div class="12u"
+<div class="12u">
 <span class="image fit">
 <img alt="Edelweis dan Canting" src="http://1.bp.blogspot.com/-sEEDt06ZUOc/U0cq-ZudxWI/AAAAAAAAHNQ/xWYFTl-fCJ4/s1600/edelweis-canting-arjuno.jpg"/>
 </span>
