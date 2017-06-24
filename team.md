@@ -36,6 +36,7 @@ Hingga tahun 2017, member yang masih aktif berpartisipasi dalam kegiatan komunit
 
 - [ -](/){:.fa.fa-facebook-official}
 - [ scytheblackraven](https://www.instagram.com/scytheblackraven/){:.fa.fa-instagram}
+
 ___
 
 ### Passive Members
@@ -54,8 +55,8 @@ Terhitung sebagai anggota pasif antara lain:
 
 **Aziz Azhar**
 
-- [Sa Li Bong](https://facebook.com/100000772036574){:.fa.fa-facebook-official}
-- [Aziz Azhar](/){:.fa.fa-instagram}
+- [ Sa Li Bong](https://facebook.com/100000772036574){:.fa.fa-facebook-official}
+- [ Aziz Azhar](/){:.fa.fa-instagram}
 
 **M Hadiyanto**
 
@@ -87,4 +88,5 @@ Terhitung sebagai anggota pasif antara lain:
 
 - [ Shinta Oktaviana](https://facebook.com/100000357524498){:.fa.fa-facebook-official}
 - [ shintavian](https://instagram.com/shintavian){:.fa.fa-instagram}
+
 ___
