@@ -1,5 +1,6 @@
 ---
 layout: post
+type: featured
 title: Gunung Arjuno Jalur Pendakian via Tretes
 excerpt: Informasi dan Pengalaman Pendakian Gunung Arjuno via Tretes, Pandaan.
 image: http://4.bp.blogspot.com/-6218NTjPSbU/U0cqQogxNNI/AAAAAAAAHMI/Abgi2Uhjg2w/s1600/img-puncak.jpg
