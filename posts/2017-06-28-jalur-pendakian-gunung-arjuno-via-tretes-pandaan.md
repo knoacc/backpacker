@@ -43,7 +43,7 @@ Di pos pertama ini juga ada warung kecil yang menyediakan pengganjal perut. Nah,
 
 Seperti disebutkan diatas, di Pos 2 terdapat sumber air. Sumber air di sini bisa langsung di minum. Tebakan saya, dari sinilah penamaan Kokopan berasal. Dalam bahasa jawa, meminum langsung disebut Ngokop, menjadi Kokopan yang berarti tempat ngokop. Eit, tetapi sebaiknya tetap memasak air telebih dahulu.
 
-Kok memasak? Iya, karena di pos Kokopan kalian bisa mendirikan tenda untuk bermalam. Di pos 2 kondisi medannya termasuk luas dan landai. Sehingga bisa jadi tempat untuk bermalam sebelum melanjutkan perjalanan ke pos selanjutnya. Pastikan mengisi air minum yang cukup hingga puncak Gunung Arjuno.
+Kok memasak? Iya, karena di pos Kokopan kalian bisa mendirikan tenda untuk bermalam jika berangkat sore dari basecamp. Di pos 2 kondisi medannya termasuk luas dan landai. Sehingga bisa jadi tempat untuk bermalam sebelum melanjutkan perjalanan ke pos selanjutnya. Pastikan mengisi air minum yang cukup hingga puncak Gunung Arjuno.
 
 Di sini juga ada musholla untuk beribdah. Ada juga warung kecil, tetapi hanya buka jika akhir pekan saja karena ramai pengunjung.
 
@@ -63,11 +63,13 @@ Di savanah yanh biasa di sebut sebagai Lembah Kidang ini, juga bisa mendirikan t
 
 Di sekitar Lembah Kidang juga terdapat sumber air, tetapi kadang surut bahkan kering saat musim kemarau.
 
-#### Puncak Gunung Arjuno a.k. Puncak Ogal-agil
+#### Menuju Puncak Gunung Arjuno 
 
 Dari savanah menuju puncak Ogal-agil bisa mencapai 8/9 jam pendakian wajar. Lagi, jalur di sini akan membuatmu "Lali Jiwo" karena jalan menanjak tanpa jeda. Gak bakalan ada bonusan lagi, serius.
 
 Dalam perjalanan menuju puncak, kalian akan melewati hutan yang disebut "Alas Lali Jiwo", nah loh. Di jalur ini juga akan me jumpai pertigaan, jangan ambil arah kanan. Arah kanan ini juga menuju Gunung Welirang tetapi termasuk jalur bahaya menurut informasi yang didapat di Basecamp.
+
+**Pasar Dieng**
 
 Terus saja ikuti tali pemandu menunju Puncak yang disebut Pasar Dieng. Ketinggian Pasar Dieng sendiri hampir sama dengan Puncak Arjuno.
 
@@ -75,8 +77,12 @@ Terus saja ikuti tali pemandu menunju Puncak yang disebut Pasar Dieng. Ketinggia
 > 
 > Bagi yang suka mitos, ada info buat kalian. Perjalanan menuju Puncak Arjuno ini juga akan melewati Pasar Dieng atau banyak yang menyebutnya dengan Pasar Setan. Info yang berharga bukan? Jadi, Pasar Dieng ini katanya banyak menyimpan beberapa cerita misteri atau mitos. Konon katanya, Pasar Dieng ini meeupakan pusat aktivitas jual beli para makhluk gaib. Lumrah jika disebut sebagai Pasar Setan kan? 
 
+Di Pasar Dieng ini terdapat gundukan makam. Ih, merinding cuy.
+
+**Puncak Ogal-agil**
+
 Untuk melanjutkan perjalanan dari Pasar Dieng kalian cukup menuruni bukit ini dan kemudian menanjak lagi menuju Puncak Ogal-agil sebagai Puncak sebenarnya dari  Gunung Arjuno. Puncak yertinggi Gunung Arjuno ditandai dengan banyaknya batu-batu besar yang tersusun rapi. Meskipun sebenarnya batu-batu besar ini cukup stabil, namun kesan yang didapat adalah tumpukan batu besar ini seperti goyah, yang dalam Bahasa Jawa adalah Ogal-agil. Dugaan saya, batu-batu inilah yang menjadi asal dari nama Ogal-agil untuk Puncak Gunung Arjuno ini.
 
-Sampai di punca Ogal-agil, kalian bisa menikmati pemandangan yang luar biasa. Eh, kalian boleh kok kalau mau selfie. Gak ada yang melarang. Tetapi yang paling penting adalah: Bersyukur kepada Tuhan Yang Maha Esa atas nikmat yang diberikan-Nya melalyi keindahan alam yang begitu megah. Dan jangan lupa juga berdoa agar tetap selamat dalam pejalanan kembali dan sampai rumah.
+Sampai di puncak Ogal-agil, kalian bisa menikmati pemandangan yang luar biasa. Eh, kalian boleh kok kalau mau selfie. Gak ada yang melarang. Tetapi yang paling penting adalah: Bersyukur kepada Tuhan Yang Maha Esa atas nikmat yang diberikan-Nya melalyi keindahan alam yang begitu megah. Dan jangan lupa juga berdoa agar tetap selamat dalam pejalanan kembali dan sampai rumah.
 
 [Phate Holloway](https://instagram.com/phateholloway){:.fa.fa-instagram}, Dokumentator Team [Ciran Backpaker](http://backpacker.paciran.com/)
