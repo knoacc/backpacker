@@ -86,5 +86,5 @@ Terhitung sebagai anggota pasif antara lain:
 **Shinta Oktaviana**
 
 - [ Shinta Oktaviana](https://facebook.com/100000357524498){:.fa.fa-facebook-official}
-- [ shinta.oktavian](https://instagram.com/shinta.oktavian){:.fa.fa-instagram}
+- [ shintavian](https://instagram.com/shintavian){:.fa.fa-instagram}
 ___
