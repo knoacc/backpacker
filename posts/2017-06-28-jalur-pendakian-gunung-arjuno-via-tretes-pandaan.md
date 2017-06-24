@@ -1,8 +1,8 @@
 ---
 layout: post
 type: featured
-title: Gunung Arjuno Jalur Pendakian via Tretes
-excerpt: Informasi dan Pengalaman Pendakian Gunung Arjuno via Tretes, Pandaan.
+title: Informasi Jalur Pendakian Gunung Arjuno via Tretes
+excerpt: Informasi untuk rencana pendakian Gunung Arjuno via Tretes, Pandaan.
 image: http://4.bp.blogspot.com/-6218NTjPSbU/U0cqQogxNNI/AAAAAAAAHMI/Abgi2Uhjg2w/s1600/img-puncak.jpg
 ---
 Pendakian Gunung Arjuno via Tretes memang sudah terkenal sebagai jalur yang berat. Ini karena jalur pendakian via Tretes hanya menyediakan trek menanjak dan berbatu. Jalur pendakian gunung Arjuno ini melewati sisi utara gunung. Topografi medan pada jalur ini banyak dikatakan pendaki sebagai jalur terberat pendakian gunung Arjuno lebih berat dari jalur lain seperti misalnya jalur pendakian via Lawang maupun pendakian via Purwosari. Lalu, kenapa Ciran Backpacker memilih jalur ini? Karena ada nila plus-plus yang didapat. Simak saja sampai akhir.
@@ -55,7 +55,7 @@ Perkiraan waktu pendakian bisa mencapai 8 jam perjalanan atau paling cepat 4 jam
 
 Di lokasi Pos 3 banyak sekali gubuk kecil yang menjadi tempat penambanh belerang. Sehingga pos ini juga biasa disebut sebagai Pondokan. Di sini kalian juga bisa mendirikan tenda dan bermalam. Di sini juga tersedia sumber mata air. Meski sedikit kotor dan tak sebersih di Pos 2, air masih bisa digunakan. Sedangkan jika ingin memasak sepertinya lebih baik menggunakan air dari Pos 2 Atau meneruskan perjalanan jika ingin melakukan rush hiking.
 
-#### Menuju Puncak Gunung Arjuno 
+### Menuju Puncak Gunung Arjuno 
 
 Dari Pos 3 menuju puncak, kalian akan melewati Savanah yang cukup luas setalah berjalan sekitar 15-20 menit. Sebelum itu, ikuti tali yang dipasang para pendaki jika anda belum mengenal medan. Jalur menuju puncak Gunung Arjuno berbelok ke arah kiri. Karena jika  mengambil jalan lurus, kalian akan sampai di puncak Gunung Welirang. Jadi jangan sampai salah jalur.
 
