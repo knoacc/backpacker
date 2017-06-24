@@ -5,8 +5,15 @@ excerpt: Informasi dan Pengalaman Pendakian Gunung Arjuno via Tretes, Pandaan.
 image: http://4.bp.blogspot.com/-6218NTjPSbU/U0cqQogxNNI/AAAAAAAAHMI/Abgi2Uhjg2w/s1600/img-puncak.jpg
 ---
 Pendakian Gunung Arjuno via Tretes memang sudah terkenal sebagai jalur yang berat. Ini karena jalur pendakian via Tretes hanya menyediakan trek menanjak dan berbatu. Jalur pendakian gunung Arjuno ini melewati sisi utara gunung. Topografi medan pada jalur ini banyak dikatakan pendaki sebagai jalur terberat pendakian gunung Arjuno lebih berat dari jalur lain seperti misalnya jalur pendakian via Lawang maupun pendakian via Purwosari. Lalu, kenapa Ciran Backpacker memilih jalur ini? Karena ada nila plus-plus yang didapat. Simak saja sampai akhir.
+<div class="box alt">
+<div class="row uniform 50%">
+<div class="12u"
 
-![Edelweis dan Canting](http://1.bp.blogspot.com/-sEEDt06ZUOc/U0cq-ZudxWI/AAAAAAAAHNQ/xWYFTl-fCJ4/s1600/edelweis-canting-arjuno.jpg){.center-block}
+![Edelweis dan Canting](http://1.bp.blogspot.com/-sEEDt06ZUOc/U0cq-ZudxWI/AAAAAAAAHNQ/xWYFTl-fCJ4/s1600/edelweis-canting-arjuno.jpg){:.image.fit}
+
+</div>
+</div>
+</div
 
 > Sebagai informasi tambahan, jalur pendakian ini merupakan jalur yang sama atau searah dengan jalur pendakian Gunung Welirang.
 
