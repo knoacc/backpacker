@@ -75,7 +75,7 @@ Terus saja ikuti tali pemandu menunju Puncak yang disebut Pasar Dieng. Ketinggia
 
 > _Bonus: Mitos Pasar Setan_
 > 
-> Bagi yang suka mitos, ada info buat kalian. Perjalanan menuju Puncak Arjuno ini juga akan melewati Pasar Dieng atau banyak yang menyebutnya dengan Pasar Setan. Info yang berharga bukan? Jadi, Pasar Dieng ini katanya banyak menyimpan beberapa cerita misteri atau mitos. Konon katanya, Pasar Dieng ini meeupakan pusat aktivitas jual beli para makhluk gaib. Lumrah jika disebut sebagai Pasar Setan kan? 
+> Bagi yang suka mitos, ada info buat kalian. Perjalanan menuju Puncak Arjuno ini juga akan melewati Pasar Dieng atau banyak yang menyebutnya dengan Pasar Setan. Info yang berharga bukan? Jadi, Pasar Dieng ini katanya banyak menyimpan beberapa [cerita misteri atau mitos](http://backpacker.paciran.com/posts/2015-06-09-cerita-pengalaman-mistis-gunung-sumbing.html). Konon katanya, Pasar Dieng ini meeupakan pusat aktivitas jual beli para makhluk gaib. Lumrah jika disebut sebagai Pasar Setan kan? 
 
 Di Pasar Dieng ini terdapat gundukan makam. Ih, merinding cuy.
 
