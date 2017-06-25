@@ -66,6 +66,7 @@ Di savanah yanh biasa di sebut sebagai Lembah Kidang ini, juga bisa mendirikan t
 Untuk menuju puncak Ogal-agil bisa mencapai 8/9 jam pendakian wajar. Lagi, jalur di sini akan membuatmu "Lali Jiwo" karena jalan menanjak tanpa jeda. Gak bakalan ada bonusan lagi, serius.anah menuju puncak Ogal-agil bisa mencapai 8/9 jam pendakian wajar. Lagi, jalur di sini akan membuatmu "Lali Jiwo" karena jalan menanjak tanpa jeda. Gak bakalan ada bonusan lagi, serius.
 
 **_Alas Lali Jiwo_**
+{% include ads1.html %}
 
 Dalam perjalanan menuju puncak, kalian akan melewati hutan yang disebut "Alas Lali Jiwo", nah loh. Di jalur ini juga akan me jumpai pertigaan, jangan ambil arah kanan. Arah kanan ini juga menuju Gunung Welirang tetapi termasuk jalur bahaya menurut informasi yang didapat di Basecamp.
 
